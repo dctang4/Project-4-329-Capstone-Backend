@@ -20,7 +20,7 @@ class FruityView(View):
     newrecord = Fruity.objects.create(
       name=body['name'], 
       type=body['type'],
-      description=body['description'], 
+      info=body['info'], 
       price=body['price'],
     )
     # Turn the object to json to dict, put in array to avoid non-iterable error
@@ -42,7 +42,7 @@ class OneFruityView(View):
     Fruity.objects.filter(name=param).update(
       name=body['name'], 
       type=body['type'],
-      description=body['description'], 
+      info=body['info'], 
       price=body['price'],
     )
     newrecord = Fruity.objects.filter(name=param)

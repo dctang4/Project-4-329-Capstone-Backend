@@ -1,0 +1,721 @@
+[
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "House Fruit Tea",
+      "type": "Fruit Tea",
+      "info": "Mixed info",
+      "price": "NA/6.50"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Grapfruit Limon",
+      "type": "Fruit Tea",
+      "info": "Grapfruit, Lime, Lemon",
+      "price": "4.55/5.35"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Yellow Combo",
+      "type": "Fruit Tea",
+      "info": "Mango, Pineapple",
+      "price": "4.75/5.50"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Lime Melon",
+      "type": "Fruit Tea",
+      "info": "Watermelon, Lime",
+      "price": "4.25/4.95"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Strawberry Lemon",
+      "type": "Fruit Tea",
+      "info": "Strawberry, Lemon",
+      "price": "4.55/5.35"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Refreshing Mango",
+      "type": "Fruit Tea",
+      "info": "Watermelon, Mango",
+      "price": "4.75/5.50"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Kumquat Lime Tea",
+      "type": "Fruit Tea",
+      "info": "Kamquat syrup, Lime",
+      "price": "3.50/4.25"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Passionfruit Melon",
+      "type": "Fruit Tea",
+      "info": "Passionfruit syrup, Watermelon",
+      "price": "4.25/4.95"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Strawberry Mango",
+      "type": "Fruit Tea",
+      "info": "Strawberry, Mango",
+      "price": "4.75/5.50"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Crunchy Kiwi",
+      "type": "Fruit Tea",
+      "info": "Kiwi, Pineapple",
+      "price": "4.55/5.35"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Sour Mango",
+      "type": "Fruit Tea",
+      "info": "Mango, Lemon",
+      "price": "4.55/5.35"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Fire Dragon",
+      "type": "Fruit Tea",
+      "info": "Dragon Fruit, Orange",
+      "price": "4.75/5.50"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Mango Tea",
+      "type": "Fruit Tea",
+      "info": "Mango",
+      "price": "3.95/4.75"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Strawberry Tea",
+      "type": "Fruit Tea",
+      "info": "Strawberry",
+      "price": "3.95/4.75"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Grapefruit Tea",
+      "type": "Fruit Tea",
+      "info": "Grapefruit",
+      "price": "3.75/4.50"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Pineapple Tea",
+      "type": "Fruit Tea",
+      "info": "Pineapple",
+      "price": "3.95/4.75"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Watermelon Tea",
+      "type": "Fruit Tea",
+      "info": "Watermelon",
+      "price": "3.95/4.75"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Orange Tea",
+      "type": "Fruit Tea",
+      "info": "Orange",
+      "price": "3.75/4.50"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Lemon Tea",
+      "type": "Fruit Tea",
+      "info": "lemon",
+      "price": "3.75/4.50"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Lime Tea",
+      "type": "Fruit Tea",
+      "info": "Lime",
+      "price": "3.75/4.50"
+    }
+  },
+
+
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Mango Yakult",
+      "type": "Yakult",
+      "info": "Mango",
+      "price": "4.65/5.45"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Lemon Yakult",
+      "type": "Yakult",
+      "info": "Lemon",
+      "price": "4.50/5.25"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Lime Yakult",
+      "type": "Yakult",
+      "info": "Lime",
+      "price": "4.50/5.25"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Grapefruit Yakult",
+      "type": "Yakult",
+      "info": "Grapefruit",
+      "price": "4.50/5.25"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Banana Yakult",
+      "type": "Yakult",
+      "info": "Banana",
+      "price": "4.65/5.45"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Pineapple Yakult",
+      "type": "Yakult",
+      "info": "Pineapple",
+      "price": "4.65/5.45"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Greentea Yakult",
+      "type": "Yakult",
+      "info": "Basic",
+      "price": "3.95/4.65"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Orange Yakult",
+      "type": "Yakult",
+      "info": "Orange",
+      "price": "4.50/5.25"
+    }
+  },
+
+
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Matcha Milk Cap",
+      "type": "Milk Cap",
+      "info": "Matcha",
+      "price": "4.65/5.55"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Mango Tea Milk Cap",
+      "type": "Milk Cap",
+      "info": "Mango",
+      "price": "4.75/5.75"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Jasmine Milk Cap",
+      "type": "Milk Cap",
+      "info": "Jasmine Tea",
+      "price": "4.25/5.25"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Oolong Milk Cap",
+      "type": "Milk Cap",
+      "info": "Oolong Tea",
+      "price": "4.25/5.25"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Black Tea Milk Cap",
+      "type": "Milk Cap",
+      "info": "Black Tea",
+      "price": "4.25/5.25"
+    }
+  },
+
+
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Mango Milk",
+      "type": "Milk",
+      "info": "Mango",
+      "price": "4.25/4.95"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Banana Milk",
+      "type": "Milk",
+      "info": "Banana",
+      "price": "4.25/4.95"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Red Bean Milk",
+      "type": "Milk",
+      "info": "Red Bean",
+      "price": "4.25/4.95"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Oreo Milk",
+      "type": "Milk",
+      "info": "Oreo",
+      "price": "4.25/4.95"
+    }
+  },
+  
+
+
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Mango Smoothie",
+      "type": "Smoothie",
+      "info": "Mango",
+      "price": "4.95/5.95"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Strawberry Smoothie",
+      "type": "Smoothie",
+      "info": "Strawberry",
+      "price": "4.95/5.95"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Pineapple Smoothie",
+      "type": "Smoothie",
+      "info": "Pineapple",
+      "price": "4.95/5.95"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Avocado Smoothie",
+      "type": "Smoothie",
+      "info": "Avocado",
+      "price": "5.50/6.50"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Banana Smoothie",
+      "type": "Smoothie",
+      "info": "Banana",
+      "price": "4.75/5.75"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Watermelon Smoothie",
+      "type": "Smoothie",
+      "info": "Watermelon",
+      "price": "4.75/5.75"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Kiwi Smoothie",
+      "type": "Smoothie",
+      "info": "Kiwi",
+      "price": "4.75/5.75"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Coconut Smoothie",
+      "type": "Smoothie",
+      "info": "Coconut",
+      "price": "4.45/5.45"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Taro Smoothie",
+      "type": "Smoothie",
+      "info": "Taro",
+      "price": "4.45/5.45"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Red Bean Smoothie",
+      "type": "Smoothie",
+      "info": "Red Bean",
+      "price": "4.75/5.75"
+    }
+  },
+
+
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "House Milk Tea",
+      "type": "Milk Tea",
+      "info": "None",
+      "price": "3.75/4.45"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Matcha Milk Tea",
+      "type": "Milk Tea",
+      "info": "Matcha",
+      "price": "4.25/4.95"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Red Bean Milk Tea",
+      "type": "Milk Tea",
+      "info": "Red Bean",
+      "price": "4.55/5.25"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Dirty Milk Tea",
+      "type": "Milk Tea",
+      "info": "None",
+      "price": "4.25/4.95"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Jamine Milk Tea",
+      "type": "Milk Tea",
+      "info": "Jasmine Tea",
+      "price": "3.75/4.45"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Thai Iced Tea",
+      "type": "Milk Tea",
+      "info": "Thai Tea",
+      "price": "3.95/4.65"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Coconut Milk Tea",
+      "type": "Milk Tea",
+      "info": "Coconut",
+      "price": "3.75/4.45"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Taro Milk Tea",
+      "type": "Milk Tea",
+      "info": "Taro",
+      "price": "3.75/4.45"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Almond Milk Tea",
+      "type": "Milk Tea",
+      "info": "Almond Milk",
+      "price": "3.75/4.45"
+    }
+  },
+
+
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "House Special Smoothie",
+      "type": "Signature Smoothie",
+      "info": "Strawberry, Mango, Pineapple, Banana, Orange, Watermelon",
+      "price": "6.50/7.45"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Tropical City",
+      "type": "Signature Smoothie",
+      "info": "Mango, Pineapple, Strawberry, Orange",
+      "price": "5.95/6.85"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Green Island",
+      "type": "Signature Smoothie",
+      "info": "Mango, Avocado, Banana, Kiwi",
+      "price": "5.95/6.85"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Triple Berries",
+      "type": "Signature Smoothie",
+      "info": "Blueberry, Blackberry, Strawberry",
+      "price": "5.95/6.85"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Golden Crush",
+      "type": "Signature Smoothie",
+      "info": "Watermelon, Canteloupe, Pineapple, Lime",
+      "price": "5.95/6.85"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Strawberry Banana",
+      "type": "Signature Smoothie",
+      "info": "Strawberry, Banana",
+      "price": "5.35/6.35"
+    }
+  },
+
+
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Sunny Peach",
+      "type": "Specialty Drink",
+      "info": "Peach, Peach Popper, Rainbow Jelly",
+      "price": "3.25/4.25"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Lychee Lover",
+      "type": "Specialty Drink",
+      "info": "Lychee, Lychee Popper & Jelly, Rainbow Jelly",
+      "price": "3.50/4.50"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Red Ruby",
+      "type": "Specialty Drink",
+      "info": "Strawberry, Strawberry Popper & Jelly, Rainbow Jelly",
+      "price": "3.50/4.50"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Passion Dream",
+      "type": "Specialty Drink",
+      "info": "Passionfruit, Passionfruit Popper & Jelly, Rainbow Jelly",
+      "price": "3.50/4.50"
+    }
+  },
+    {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Mango Fever",
+      "type": "Specialty Drink",
+      "info": "Mango, Mango Popper & Jelly, Rainbow Jelly",
+      "price": "3.50/4.50"
+    }
+  },
+    {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Brown Sugar Ginger Tea",
+      "type": "Specialty Drink",
+      "info": "Brown Sugar, Ginger",
+      "price": "3.25/4.25"
+    }
+  },
+    {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Winter Melon Tea",
+      "type": "Specialty Drink",
+      "info": "Winter Melon",
+      "price": "3.25/4.25"
+    }
+  },
+
+
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Fruity Tea",
+      "type": "Fresh Brewed Tea",
+      "info": "None",
+      "price": "3.75/4.25"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Jasmine Green Tea",
+      "type": "Fresh Brewed Tea",
+      "info": "None",
+      "price": "3.75/4.25"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Cherry Blossom Oolong",
+      "type": "Fresh Brewed Tea",
+      "info": "None",
+      "price": "4.00/4.50"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Four Seasons Green Tea",
+      "type": "Fresh Brewed Tea",
+      "info": "None",
+      "price": "4.00/4.50"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "The King",
+      "type": "Fresh Brewed Tea",
+      "info": "None",
+      "price": "4.00/4.50"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "The Queen",
+      "type": "Fresh Brewed Tea",
+      "info": "None",
+      "price": "4.00/4.50"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Ruby Tea",
+      "type": "Fresh Brewed Tea",
+      "info": "None",
+      "price": "4.00/4.50"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Puer Tea",
+      "type": "Fresh Brewed Tea",
+      "info": "None",
+      "price": "3.75/4.25"
+    }
+  },
+  {
+    "model": "fruityapi.fruity",
+    "fields": {
+      "name": "Black Tea",
+      "type": "Fresh Brewed Tea",
+      "info": "None",
+      "price": "3.45/3.95"
+    }
+  }
+]
