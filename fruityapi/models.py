@@ -34,7 +34,22 @@ class Fruity(models.Model):
   #   ('M', 'Medium'),
   #   ('L', 'Large')
   # )
+
+  # TYPE = (
+  #   ('FT', 'Fruit Tea'),
+  #   ('Y', 'Yakult'),
+  #   ('MC', 'Milk Cap'),
+  #   ('M', 'Milk'),
+  #   ('S', 'Smoothie'),
+  #   ('MT', 'Milk Tea'),
+  #   ('SS', 'Signature Smoothie'),
+  #   ('SD', 'Specialty Drink'),
+  #   ('FBT', 'Fresh Brewed Tea')
+  # )
+
+
   name = models.CharField(max_length=50)
+  # type = models.CharField(max_length=25)
   type = models.CharField(max_length=25)
   info = models.CharField(max_length=100)
   # ice = models.CharField(max_length=10, choices=ICE, default='100%')

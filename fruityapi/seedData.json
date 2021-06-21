@@ -11,9 +11,9 @@
   {
     "model": "fruityapi.fruity",
     "fields": {
-      "name": "Grapfruit Limon",
+      "name": "Grapefruit Limon",
       "type": "Fruit Tea",
-      "info": "Grapfruit, Lime, Lemon",
+      "info": "Grapefruit, Lime, Lemon",
       "price": "4.55/5.35"
     }
   },
@@ -472,7 +472,7 @@
   {
     "model": "fruityapi.fruity",
     "fields": {
-      "name": "Jamine Milk Tea",
+      "name": "Jasmine Milk Tea",
       "type": "Milk Tea",
       "info": "Jasmine Tea",
       "price": "3.75/4.45"
